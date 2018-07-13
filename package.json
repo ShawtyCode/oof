@@ -1,16 +1,15 @@
-
 {
-	"name": "Shawtyyyy",
-	"description": "x"
-	"version": "1.0"
-	"main": "actualbot.js"
-	"scripts": {
-		"start": "node actualbot.js"
-},
-
-	"dependencies": {
-		"discord.js": "11.1.0"
-		"request": "2.81.0"
-	}
-
+  "name": "sss",
+  "description": "sss",
+  "version": "0.0.0",
+  "main": "actualbot.js",
+  "scripts": {
+    "start": "node actualbot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
 }
+
+//old pckg json
