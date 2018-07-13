@@ -7,7 +7,7 @@ bot.on('message', function(message) {
 		var interval = setInterval (function () {
 			message.channel.send("!disboard bump")
 			catch(console.error)
-			}, 1 * 1);
+		}, 1 * 1);
 		{
 
 
