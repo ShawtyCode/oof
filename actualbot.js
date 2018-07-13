@@ -11,8 +11,7 @@ bot.on('message', function(message) {
 		{
 
 
-client.login(process.env.TOKEN);
-
+client.login(TOKEN)
 
 
 
